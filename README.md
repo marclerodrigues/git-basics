@@ -1,2 +1,2 @@
 # git-basics
-Git basics
+Git Basics
